@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs & NodeJs**
 
-- 💬 Ask me about **c,c++,css,javascript,react,cloud🌩️,version control**
+- 💬 Ask me about **c,c++,css,javascript,react,cloud🌩️,version control,php**
 
 - 📫 How to reach me **rushikeshpalaskar467@gmail.com**
 
