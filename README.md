@@ -23,4 +23,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshpalaskar2220&" alt="rushikeshpalaskar2220" /></p>
 <br>
 
-holopin.io/@rushikeshpalaskar2220
+[![@rushikeshpalaskar2220's Holopin board](https://holopin.io/api/user/board?user=rushikeshpalaskar2220)](https://holopin.io/@rushikeshpalaskar2220)
