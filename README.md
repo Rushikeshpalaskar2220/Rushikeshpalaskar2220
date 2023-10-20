@@ -25,4 +25,4 @@
 
 [![An image of @rushikeshpalaskar2220's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rushikeshpalaskar2220)](https://holopin.io/@rushikeshpalaskar2220)
 
-[![@rushikeshpalaskar2220's Holopin board](https://holopin.io/api/user/board?user=rushikeshpalaskar2220)](https://holopin.io/@rushikeshpalaskar2220)
+
