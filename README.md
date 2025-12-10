@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, Rushi here</h1>
 <h3 align="center">A passionate developer who like coding & programming stuff👾</h3>
 
-- 🌱 I’m currently learning **ReactJs & NodeJs**
-
-- 💬 Ask me about **c,c++,css,javascript,react,cloud🌩️,version control,php**
+- 🌱 I’m Full Stack Developer  **Java & React**
+- Currently Learning  **Security and Agentic/AI**
+- 💬 Ask me about **Java Core , Java 8, Spring , SpringBoot , Postman ,css,javascript,react, cloud🌩️,version control**
 
 - 📫 How to reach me **rushikeshpalaskar467@gmail.com**
 
